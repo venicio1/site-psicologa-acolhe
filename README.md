@@ -18,4 +18,4 @@ HTML, CSS e JavaScript. As imagens estão na pasta `images`, e os arquivos de es
 
 ## Como visualizar
 
-Abra `index.html` no navegador ou acesse a versão publicada: **[coloque aqui o link do site]**
+Abra `index.html` no navegador ou acesse a versão publicada: **https://venicio1.github.io/site-psicologa-acolhe/**
